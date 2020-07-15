@@ -2,3 +2,9 @@
 *.css.map
 *.sass.map
 *.scss.map
+node_modules
+sass
+css/style.comp.css
+css/style.prefix.css
+css/style.concat.css
+css/iconfont.css
